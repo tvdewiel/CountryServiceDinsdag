@@ -1,0 +1,6 @@
+@CountryServiceDinsdag_HostAddress = http://localhost:5166
+
+GET {{CountryServiceDinsdag_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
